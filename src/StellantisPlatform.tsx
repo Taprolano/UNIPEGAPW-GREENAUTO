@@ -256,9 +256,6 @@ export default function GreenAutoPlatform() {
 
         const stats = data.companyStats;
 
-        console.log('Overview rendering with stats:', stats);
-        console.log('Object.keys(stats).length:', Object.keys(stats).length);
-
         return (
             <div className="space-y-8">
                 <div className="bg-white rounded-lg shadow-md p-6 w-[1100px] max-w-full mx-auto">
