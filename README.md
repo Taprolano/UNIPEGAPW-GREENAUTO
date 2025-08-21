@@ -49,3 +49,7 @@ App is currently deployed as a Demo and accessible at:
 
 BFF Status is accessible at:
 [https://unipegapw-greenauto-bff-production.up.railway.app/api/health](https://unipegapw-greenauto-bff-production.up.railway.app/api/health)
+
+## Dependencies
+
+BFF Repository: [https://github.com/Taprolano/UNIPEGAPW-GREENAUTO-BFF](https://github.com/Taprolano/UNIPEGAPW-GREENAUTO-BFF)
