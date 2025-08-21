@@ -16,7 +16,7 @@ import {
 import { XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, LineChart, Line, Legend} from 'recharts';
 
 //const API_BASE_URL = 'http://localhost:3001/api'; LOCAL DEV
-const API_BASE_URL = 'http://unipegapw-greenauto-bff-production.up.railway.app/api'; //PROD DEV
+const API_BASE_URL = 'https://unipegapw-greenauto-bff-production.up.railway.app/api'; //PROD DEV
 
 export default function GreenAutoPlatform() {
     const [searchQuery, setSearchQuery] = useState('');
