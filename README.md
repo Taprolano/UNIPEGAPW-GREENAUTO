@@ -41,3 +41,11 @@ Launches the test runner in the interactive watch mode.
 
 Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
+## Demo app
+
+App is currently deployed as a Demo and accessible at:
+[https://unipegapw-greenauto-production.up.railway.app/](https://unipegapw-greenauto-production.up.railway.app/)
+
+BFF Status is accessible at:
+[https://unipegapw-greenauto-bff-production.up.railway.app/api/health](https://unipegapw-greenauto-bff-production.up.railway.app/api/health)
